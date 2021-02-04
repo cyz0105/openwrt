@@ -1,4 +1,4 @@
-#勿删,op-build项目使用!
+# 勿删,op-build项目使用!
 # PROJECT OPENWRT
 ## The Source Code of OpenWrt-Lean Modified by CTCGFW
 ### Welcome to our Telegram Group: [@ctcgfw\_openwrt\_discuss](https://t.me/ctcgfw_openwrt_discuss).
